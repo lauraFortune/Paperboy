@@ -1,7 +1,6 @@
 # Paperboy
 
-Python Desktop News Application
-Data sourced from the external news API – https://newsapi.org. 
+Python Desktop News Application. Data sourced from the external news API – https://newsapi.org. 
 The application ‘Paperboy’ displays news data from three categories: Sports, Business and Technology. The user can save their
 favourite news stories to the ‘My News’ section. Favourite news articles are stored in a local ‘Sqlite’ database.
 
