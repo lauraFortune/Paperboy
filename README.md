@@ -44,7 +44,7 @@ Click the following Images to view demos of the site in action:
 1. Clone project 
 
    ```bash
-   git clone https://github.com/lauraFortune/Paperboy.git
+   git clone https://github.com/lauraFortune/paperboy.git
    ```
 2. Open file news_api.py. Nagvigate to line 27. Update the API_KEY variable with the api key you recieved from newsapi.org.
 
